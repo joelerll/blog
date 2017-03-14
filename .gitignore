@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+themes/hollow
+themes/icarus
+themes/minos
+themes/next
+themes/noise
+themes/oishi
+themes/pln
