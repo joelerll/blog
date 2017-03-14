@@ -7,12 +7,12 @@ title: joelerll blog
 subtitle:
 description:
 author: Joel Rodriguez
-language: en
+language: es
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://joelerll.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -39,7 +39,7 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false
   #auto_detect: false
   tab_replace:
 
@@ -49,7 +49,7 @@ category_map:
 tag_map:
 
 # Disqus comments
-#disqus_shortname: joelerllblog
+disqus_shortname: joelerllblog
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
